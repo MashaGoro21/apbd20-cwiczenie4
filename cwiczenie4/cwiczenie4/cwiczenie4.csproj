@@ -14,6 +14,7 @@
     <ItemGroup>
       <Compile Remove="Controllers\WeatherForecastController.cs" />
       <Compile Remove="WeatherForecast.cs" />
+      <Compile Remove="Controllers\AnimalShelterAPI.cs" />
     </ItemGroup>
 
 </Project>
